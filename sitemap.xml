@@ -7,6 +7,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/dinner/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/bowling/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ski-trip/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
